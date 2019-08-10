@@ -1,7 +1,7 @@
 Features:
 
 - Fully Responsive
-- Followed standard email coding structure
+- Followed standard email template coding structure
 - used gmail supported tags.
 - crossbrowser support.
 - built using <a href ='https://github.com/leemunroe/responsive-html-email-template' > this template </a> Click the link to visit template's github repository
